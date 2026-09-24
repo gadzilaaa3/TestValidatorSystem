@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/db/">
+    <File Path="init.sql" />
+  </Folder>
+  <Folder Name="/Элементы решения/" />
+  <Project Path="TestValidatorSystem.Api/TestValidatorSystem.Api.csproj" />
+</Solution>
